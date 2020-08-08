@@ -8,24 +8,6 @@
 ```
 
 
-若此页面的后半部分排版错乱，请点击右上角的三个点“...”，选择“调整字体”，随后把字体设置为最小号，方可解决此问题！！
-
-若此页面的后半部分排版错乱，请点击右上角的三个点“...”，选择“调整字体”，随后把字体设置为最小号，方可解决此问题！！
-
-若此页面的后半部分排版错乱，请点击右上角的三个点“...”，选择“调整字体”，随后把字体设置为最小号，方可解决此问题！！
-
-
-
-  <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
-    <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-r✔✔ight-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 解压密码</span>
-  </h2>
-2019 年 12 月 1 日 开始，<br>
-解压密码统一设置为：
-
-**ruanxiaotang**
-
-
   <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
     <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 蓝奏资料</span>
