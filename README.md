@@ -1,6 +1,3 @@
-# tools
-使用：Windows|Android|iOS|Web 测试时间：2019-2020
-
 # 本页面长期更新-软件|教程|福利-
 
 ![](http://easy.ruanxiaotang.top/usr/uploads/2020/08/973335074.png)
@@ -11,18 +8,27 @@
 ```
 
 
+若此页面的后半部分排版错乱，请点击右上角的三个点“...”，选择“调整字体”，随后把字体设置为最小号，方可解决此问题！！
+
+若此页面的后半部分排版错乱，请点击右上角的三个点“...”，选择“调整字体”，随后把字体设置为最小号，方可解决此问题！！
+
+若此页面的后半部分排版错乱，请点击右上角的三个点“...”，选择“调整字体”，随后把字体设置为最小号，方可解决此问题！！
+
 
 
   <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-r##ight-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 解压密码</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-r✔✔ight-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 解压密码</span>
   </h2>
-见公众号“软小糖”底部菜单栏。
+2019 年 12 月 1 日 开始，<br>
+解压密码统一设置为：
+
+**ruanxiaotang**
 
 
   <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 蓝奏资料</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 蓝奏资料</span>
   </h2>
 
 若蓝奏云资源无法打开，请尝试：
@@ -33,7 +39,7 @@
 
   <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 百度网盘</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 百度网盘</span>
   </h2>
 
 若百度网盘链接失效，请尝试：
@@ -55,7 +61,7 @@
 
   <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 软件之最</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 软件之最</span>
   </h2>
   
   整理了几个电脑主机最常用也最实用的软件，有官网的已附上官网下载链接，没官网的已用网盘上传：
@@ -121,7 +127,7 @@
 
   <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 实用 Web 工具</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 实用 Web 工具</span>
   </h2>
 
 整理了数个值得收藏的web站点，打开这些网页就是一个别样的新天地：
@@ -164,7 +170,7 @@
 
   <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## Windows Tools</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ Windows Tools</span>
   </h2>
 
 |  汁源   |  适用   |  评分   |
@@ -198,7 +204,7 @@
 
 <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 下载篇</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 下载篇</span>
   </h2>
 
 |  汁源   |  平台   |  评分   |
@@ -227,7 +233,7 @@
 
 <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 玩机篇</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 玩机篇</span>
   </h2>
 
 |  汁源   |  平台   |  评分   |
@@ -253,7 +259,7 @@
 
 <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 音乐篇</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 音乐篇</span>
   </h2>
 
 1、app
@@ -275,7 +281,7 @@ http://easy.ruanxiaotang.top/other/music/
 
 <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 特殊网</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 特殊网</span>
   </h2>
 
 |  汁源   |  平台   |  评分   |
@@ -295,7 +301,7 @@ http://easy.ruanxiaotang.top/other/music/
 
 <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 课程篇</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 课程篇</span>
   </h2>
 
 80年前的珍贵资料，掏出来观摩还是收藏夹吃灰，自行了断：
@@ -322,7 +328,7 @@ http://easy.ruanxiaotang.top/other/music/
 
 <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 战斗机</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 战斗机</span>
   </h2>
 
 论电脑的用处：买前生产力，买后游戏机。若想要电脑变成生产力的战斗机，看看如何安装这些效率软件：
@@ -358,7 +364,7 @@ http://easy.ruanxiaotang.top/other/music/
 
 <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 虚拟机</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 虚拟机</span>
   </h2>
 
 一台电脑不够用？想看看电脑病毒的威力？想同时拥有Mac、Win10、Win7、Linux、Android系统？等等，安装虚拟机就搞定了！台式机（可能）要在BIOS开启虚拟机支持选项，才能[安装VMware软件（点我查看安装方法）](https://mp.weixin.qq.com/s?__biz=MzU4ODY2ODc2Ng==&mid=2247485131&idx=2&sn=79145637143f25be0f8dfbe758aaf413&chksm=fdd80cfacaaf85ecca21a34b76c63b130c4106fe1a76486617d344e02e74e56109cc39690ae1#rd)，随后在VMware里安装这些系统：
@@ -380,7 +386,7 @@ http://easy.ruanxiaotang.top/other/music/
 
 <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 逆向篇</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 逆向篇</span>
   </h2>
 
 |  汁源   |  平台   |  评分   |
@@ -396,7 +402,7 @@ http://easy.ruanxiaotang.top/other/music/
 
 <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 解压缩</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 解压缩</span>
   </h2>
 
 |  汁源   |  平台   |  评分   |
@@ -406,7 +412,7 @@ http://easy.ruanxiaotang.top/other/music/
 
   <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 技术篇</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 技术篇</span>
   </h2>
 
 
@@ -424,7 +430,7 @@ http://easy.ruanxiaotang.top/other/music/
 
   <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 游戏篇</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 游戏篇</span>
   </h2>
 
 
@@ -457,7 +463,7 @@ http://easy.ruanxiaotang.top/other/music/
 
   <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 免费主机</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 免费主机</span>
   </h2>
 
 想要搭建个属于自己的网站？不花一分钱就能搞定，小糖搜集了数个免费主机平台：<br>
@@ -470,7 +476,7 @@ http://easy.ruanxiaotang.top/other/music/
 
   <h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;">
     <span class="prefix" style="display: none;"></span>
-    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">## 网站搭建</span>
+    <span class="content" style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">✔✔ 网站搭建</span>
   </h2>
 
 有了免费主机，是不是需要自己亲自动手写网站代码了？大可不必，下面这些博客源码已经相当强大，如果偶遇一个让你心仪的主题，恐怕就不会忘记更新博文了。
